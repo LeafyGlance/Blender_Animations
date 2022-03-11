@@ -18,7 +18,7 @@ Note: Lower quality gif above just for previews, [rendered frame data available 
 ![Piggy Walking Gif](/Piggy/Piggy.gif)
 Note: [Rendered frame data available here](https://github.com/LeafyGlance/Blender_Animations/tree/main/Piggy/Frame%20Data)
 
-## Pigeon Walking
+## Piggy Walking
 * Created mesh for piggy
 * Created armature structure from scratch
 * Custom rigging using Rigify addon
