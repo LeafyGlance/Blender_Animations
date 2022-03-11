@@ -1,7 +1,7 @@
 # Blender Animations
 A small collection of my blender animations.
 
-![Pigoen Walking Gif](/Pigeon/Pigeon.gif)
+![Pigeon Walking Gif](/Pigeon/Pigeon.gif)
 Note: Lower quality gif above just for previews, [rendered frame data available here](https://github.com/LeafyGlance/Blender_Animations/tree/main/Pigeon/Frame%20Data)
 
 ## Pigeon Walking
@@ -14,3 +14,15 @@ Note: Lower quality gif above just for previews, [rendered frame data available 
 * Used screen space reflections on rendering
 * Used bloom on rendering
 * Used ambient occlusion on rendering
+
+![Piggy Walking Gif](/Piggy/Piggy.gif)
+Note: [Rendered frame data available here](https://github.com/LeafyGlance/Blender_Animations/tree/main/Piggy/Frame%20Data)
+
+## Pigeon Walking
+* Created mesh for piggy
+* Created armature structure from scratch
+* Custom rigging using Rigify addon
+* Changed materials of mesh (experimented with subsurface coloring)
+* Used screen space reflections on rendering
+* Used ambient occlusion on rendering
+* Custom painted weights for armature
