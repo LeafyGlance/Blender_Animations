@@ -1,6 +1,8 @@
 # Blender Animations
 A small collection of my blender animations.
 
+---
+
 ![Pigeon Walking Gif](/Pigeon/Pigeon.gif)
 Note: Lower quality gif above just for previews, [rendered frame data available here](https://github.com/LeafyGlance/Blender_Animations/tree/main/Pigeon/Frame%20Data)
 
